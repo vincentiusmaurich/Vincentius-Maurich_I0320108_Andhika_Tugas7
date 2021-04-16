@@ -7,7 +7,6 @@ for i in range(len(nilai_siswa)):
 #Mencari rata-rata nilai
 rerata = sum(nilai_siswa)/len(nilai_siswa)
 
-
 print("Nilai yang diinput : ", nilai_siswa)
 print('='*30)
 
